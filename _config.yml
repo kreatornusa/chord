@@ -1,6 +1,6 @@
 ---
 title: DewaGitar.com
-timezone: UTC
+timezone: Asia/Jakarta
 collections:
   posts:
     title: Posts
@@ -20,4 +20,3 @@ defaults:
     type: pages
   values:
     layout: page
-permalink: pretty
